@@ -1,8 +1,9 @@
-package app.androidhive.info.realm.adapters;
+package app.ansul.demo.realm.adapters;
 
 import android.content.Context;
 
-import app.androidhive.info.realm.model.Book;
+
+import app.ansul.demo.realm.model.Book;
 import io.realm.RealmResults;
 
 public class RealmBooksAdapter extends RealmModelAdapter<Book> {

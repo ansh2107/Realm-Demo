@@ -1,4 +1,4 @@
-package app.androidhive.info.realm.activity;
+package app.ansul.demo.realm.activity;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -15,12 +15,13 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-import app.androidhive.info.realm.app.Prefs;
-import app.androidhive.info.realm.R;
-import app.androidhive.info.realm.adapters.BooksAdapter;
-import app.androidhive.info.realm.adapters.RealmBooksAdapter;
-import app.androidhive.info.realm.model.Book;
-import app.androidhive.info.realm.realm.RealmController;
+
+import app.ansul.demo.realm.R;
+import app.ansul.demo.realm.adapters.BooksAdapter;
+import app.ansul.demo.realm.adapters.RealmBooksAdapter;
+import app.ansul.demo.realm.app.Prefs;
+import app.ansul.demo.realm.model.Book;
+import app.ansul.demo.realm.realm.RealmController;
 import io.realm.Realm;
 import io.realm.RealmResults;
 

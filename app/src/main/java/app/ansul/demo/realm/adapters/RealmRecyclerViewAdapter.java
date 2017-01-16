@@ -1,4 +1,4 @@
-package app.androidhive.info.realm.adapters;
+package app.ansul.demo.realm.adapters;
 
 import android.support.v7.widget.RecyclerView;
 

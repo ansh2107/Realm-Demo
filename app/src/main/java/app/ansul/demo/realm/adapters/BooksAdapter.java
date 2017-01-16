@@ -1,4 +1,4 @@
-package app.androidhive.info.realm.adapters;
+package app.ansul.demo.realm.adapters;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -15,10 +15,11 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
-import app.androidhive.info.realm.R;
-import app.androidhive.info.realm.app.Prefs;
-import app.androidhive.info.realm.model.Book;
-import app.androidhive.info.realm.realm.RealmController;
+
+import app.ansul.demo.realm.R;
+import app.ansul.demo.realm.app.Prefs;
+import app.ansul.demo.realm.model.Book;
+import app.ansul.demo.realm.realm.RealmController;
 import io.realm.Realm;
 import io.realm.RealmResults;
 

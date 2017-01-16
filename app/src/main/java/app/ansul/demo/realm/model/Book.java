@@ -1,4 +1,5 @@
-package app.androidhive.info.realm.model;
+package app.ansul.demo.realm.model;
+
 
 import io.realm.RealmObject;
 import io.realm.annotations.PrimaryKey;
